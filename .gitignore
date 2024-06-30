@@ -1,0 +1,6 @@
+
+obj/project.nuget.cache
+obj/project.assets.json
+obj/DependencyInjection.csproj.nuget.g.targets
+obj/DependencyInjection.csproj.nuget.g.props
+obj/DependencyInjection.csproj.nuget.dgspec.json
